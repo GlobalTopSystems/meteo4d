@@ -1,1 +1,1 @@
-Initialization of repository structure. 
+Creation of repo structure. 
