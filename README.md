@@ -1,3 +1,3 @@
-First tests with GITHUB repo - v0.01.01 - June 2020.
+First tests with GITHUB repo for Meteo4D-Suite-v0.0.1-alpha - June 2020.
 
-Implementation of wrapper function for Meteo4D-Suite - v0.01.02 - July 2020.
+Implementation of wrapper function for Meteo4D-Suite - v0.0.01 - July 2020.
